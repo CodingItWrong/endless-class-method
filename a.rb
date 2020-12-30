@@ -2,9 +2,7 @@
 
 # Sample class
 class A
-  def self.b
-    1
-  end
+  def self.b = 1
 
   def c
     2
